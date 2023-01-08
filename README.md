@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110E&center=true&vCenter=true&width=435&lines=Hello+there...)](https://git.io/typing-svg)
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -35,19 +35,19 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=TyomaVader)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TyomaVader&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyomaVader&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyomaVader&show_icons=true&count_private=true&theme=highcontrast)
   <br/>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
