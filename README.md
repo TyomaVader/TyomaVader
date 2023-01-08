@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110E&center=true&vCenter=true&width=435&lines=Hello+there...)](https://git.io/typing-svg)
 
@@ -42,9 +41,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
     [![GitHub Streak](https://streak-stats.demolab.com/?user=TyomaVader)](https://git.io/streak-stats)
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
