@@ -1,6 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110E&center=true&vCenter=true&width=435&lines=Hello+there...)](https://git.io/typing-svg)
 
+<h3>:iphone: Socials</h3>
+<p>
+  
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/artem-chmutau-843316249/)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tyomastarwars2020/)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/738508436827799603)
+</p>
+
+
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
