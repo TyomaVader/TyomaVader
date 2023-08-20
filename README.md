@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110E&center=true&vCenter=true&width=435&lines=Hello+there...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110E&center=true&vCenter=true&width=435&lines=Hello+there!)](https://git.io/typing-svg)
 
 <h3>:iphone: Socials</h3>
 <p>
@@ -56,6 +56,10 @@
   </p>
 </details>
 
+<h3>🏆 GitHub Trophies</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TyomaVader&theme=monokai&row=2&column=3&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -73,7 +77,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TyomaVader&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TyomaVader&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 </details>
 
